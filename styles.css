@@ -1,7 +1,27 @@
-:root {
-    --cor-de-fundo : rgb(159, 216, 159);
+.imagem {
+    text-align: center;
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: white
+    color: rgba(48, 67, 241, 0.603);
+}
+.texto1{
+    font-size: 20px;
+}
+.tipos{
+    font-size: 30px;
+    color: rgb(42, 133, 20);
+}
+.tipos2{
+    font-size: 30px;
+    color:rgb(42, 133, 20)
+}
+.tipos3{
+    font-size: 30px;    
+    color: rgb(42, 133, 20);
+}
+.titulo{
+    font-size: 35px;
+    color: rgb(42, 133, 20)
 }
